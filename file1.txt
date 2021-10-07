@@ -1,3 +1,7 @@
 the first file
 
+
 changed on master
+
+changed in other branch
+
